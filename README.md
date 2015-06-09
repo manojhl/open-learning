@@ -7,28 +7,34 @@
 **Your mission**: (I made you movies)
 
 
-### 1: Sign up for a new GitHub account here:
+## Step 1
+### Sign up for a new GitHub account
 * [**http://github.com/signup**][signup]
 * :book: [Github account creation help docs][account]
 * :video_camera: [I made you an instructional video!][create] (1:15)
 
-### 2: Come back here and open an [Issue][issue]
+
+## Step 2
+### Come back here and open an [Issue][issue]
 ![issues][issues]
 * Your issue doesn't need to say anything specific it will just let me add your username to the Greenpeace GitHuOrganisation as well as the [open-learning][repo] team
 * :video_camera: ["Another instructional video?" You're welcome][first] (1:10)
 
-### 2.5 Check for an invitation to join the team
+### Check for an invitation to join the team
 * It may take a a day until activated :sleeping:
 
 ![notifications][notifications]
 
-### 3: Add a file to the repo. Name it `your-username.md` (i.e. `gyaresu.md`) and practice putting some text in.
+
+## Step 3
+### Add a file to the repo. Name it `your-username.md` (i.e. `gyaresu.md`) and practice putting some text in.
 * :video_camera: [A THIRD VIDEO! Whaaaaaaat?][addFile] (5:00)
 
 ![add a file][add]
 
 
-###4: Edit any other file! Find a typo or similar mistake and fix it :+1:
+## Step 4
+### Edit any other file! Find a typo or similar mistake and fix it :+1:
 * :book: [markdown basics][md]
 
 ![select file][select]
@@ -37,7 +43,9 @@
 
 * _No video this time but maybe **someone else** will make one and link it here? Hmmm...)_
 
-###5: Get a local copy of our [greenpeace/open-learning][repo] repo and work offline
+
+## Step 5
+### Get a local copy of our [greenpeace/open-learning][repo] repo and work offline
 * :video_camera: [VIDEOS. FOR. EVERYONE!][branches] (8:50)
 * Windows: https://windows.github.com/
 * Mac: https://mac.github.com/
@@ -45,7 +53,7 @@
 * _Mac (commandline): https://hub.github.com/_
 
 
-####HELP I HAVE NO IDEA WHAT I'M DOING!
+#### HELP I HAVE NO IDEA WHAT I'M DOING!
 
 First make sure to have a look at the documentation.
 
